@@ -1,0 +1,107 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    display: flex;
+    background-color: #1c1c1c;
+}
+.coluna{
+    color: white;
+    background-color: #000;
+    width: 370px;
+    position:relative;
+}
+.h{
+    margin-left: 30px;
+}
+.alguem{
+    background-color: #4F4F4F;
+    height: 80px;
+   
+    position: relative;
+}
+.quadrado{
+    display: inline-block;
+    margin-top: 5px;
+    margin-left: 10px;
+    float: left;
+    width: 70px;
+    height: 70px;
+    shape-outside: inset(20px 5px 30px 10px);
+    background: white;
+    border-radius: 20px;
+}
+.hh{
+    margin-left: 90px;
+}
+.quadrado2{
+    display: inline-block;
+    margin-top: 15px;
+    margin-left: 10px;
+    float: left;
+    width: 70px;
+    height: 70px;
+    shape-outside: inset(20px 5px 30px 10px);
+    background: white;
+    border-radius: 20px;
+}
+.hhh{
+    margin-top: 30px;
+    margin-left: 90px;
+}
+.quadrado3{
+    display: inline-block;
+    margin-left: 10px;
+    float: left;
+    width: 70px;
+    height: 70px;
+    shape-outside: inset(20px 5px 30px 10px);
+    background: white;
+    border-radius: 20px;
+}
+.hhhh{
+    margin-top: 110px;
+    margin-left: 90px;
+}
+.quadrado4{
+    display: inline-block;
+    margin-left: 10px;
+    float: left;
+    width: 70px;
+    height: 70px;
+    shape-outside: inset(20px 5px 30px 10px);
+    background: white;
+    border-radius: 20px;
+}
+.hhhhh{
+    margin-top: 90px;
+    margin-left: 90px;
+}
+.user1{
+    font-size: 20px;
+    margin-left: 900px;
+    color: white;
+}
+.texto{
+    border: 10px solid #4F4F4F;
+    border-radius: 10px;
+    margin-left: 630px;
+    margin-bottom: 10px;
+}
+.user2{
+    justify-content: left;
+    font-size: 20px;
+    color: white;
+}
+.texto2{
+    border: 10px solid #4F4F4F;
+    border-radius: 10px;
+    width: 364px;
+    margin-bottom: 10px;
+}
+.texto3{
+    border: 10px solid #4F4F4F;
+    border-radius: 10px;
+    width: 390px;
+
+}
